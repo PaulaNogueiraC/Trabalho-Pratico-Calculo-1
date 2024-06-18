@@ -1,1 +1,1 @@
-﻿# Trabalho-Pr-tico-C-lculo-1
+﻿# Trabalho-Pratico-Calculo-1
